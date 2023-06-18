@@ -67,7 +67,7 @@ Revision: 1
 Description of changes: restructre html to semantic structure, reduce css code by 50% by using better structure, added css comments, added alt text to images.
 
 ## Site URL
-https://remkin76.github.io.
+https://remkin76.github.io
 
 ## Image of site
 ![screenshot](./assets/images/Screenshot%202023-06-18%20at%208.56.43%20pm.png?raw=true "Screenshot")
